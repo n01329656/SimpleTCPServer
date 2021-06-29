@@ -1,4 +1,4 @@
-# SimpleTCPServer
+# A simple synchronous TCP server
 This is a simple multithread TCP-based server that displays messages. 
 It is written with boost::asio network library.
 It uses a simple synchronous write() method to retrieve client messages. 
